@@ -1,8 +1,10 @@
-Pusher-react-location
+## Pusher-react-location
 
 Author: Juha Luukkonen
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Soon deployed: https://pusher-react-location.herokuapp.com/
 
 ## Available Scripts
 
